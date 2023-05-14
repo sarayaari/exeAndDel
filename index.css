@@ -1,0 +1,21 @@
+
+
+body {
+    background-color: rgb(240, 210, 13); 
+}
+
+h2 {
+    color:rgba(70, 239, 3, 0.753);
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+h1{
+  color: aqua;
+}
+h3{
+color: brown;
+}
